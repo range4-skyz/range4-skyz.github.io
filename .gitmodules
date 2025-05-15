@@ -1,0 +1,3 @@
+[submodule "themes/hugo-theme-xyz"]
+	path = themes/hugo-theme-xyz
+	url = https://github.com/range4-skyz/hugo-theme-xyz.git

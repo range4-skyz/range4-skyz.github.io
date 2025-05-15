@@ -1,0 +1,4 @@
+baseURL: https://range4-skyz.github.io/
+languageCode: en-us
+title: Sstmtz's Blog
+theme: ["hugo-theme-xyz"]
